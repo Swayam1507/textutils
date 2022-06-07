@@ -1,0 +1,28 @@
+.circle1{
+    /* padding:0px 27px; */
+    margin-right: 17px;
+    height:25px;
+    width:25px;
+    border-radius:50%;
+    background-color: rgb(9, 9, 110);
+}
+.circle2{
+    /* padding:0px 27px; */
+    margin-right: 17px;
+    height:25px;
+    width:25px;
+    border-radius:50%;
+    background-color: rgb(12, 94, 12);
+}
+.circle3{
+    /* padding:0px 27px; */
+    margin-right: 17px;
+    height:25px;
+    width:25px;
+    border-radius:50%;
+    background-color: rgb(112, 85, 17);
+}
+.Blue{
+    background-color: blue;
+    color: white;
+}
